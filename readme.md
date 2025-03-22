@@ -5,7 +5,7 @@
  &nbsp; [![Linkedin: govardhan-srinivas](https://img.shields.io/badge/-linkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/govardhan-srinivas/)](http://www.linkedin.com/in/sowmya-nagaraj-972aa1240/)  [![GitHub itz-sowmya](https://img.shields.io/github/followers/itz-sowmya?label=Github&style=social)](https://github.com/itz-sowmya)  [![Portfolio: itz-sowmya](https://img.shields.io/badge/Portfolio-white?logo=codeIgniter&link=https://itz-sowmya.github.io/)](https://itz-sowmya.github.io/)
 
 
-</br></br>
+</br></br></br>
 
 ### A bit more about me...  
 
